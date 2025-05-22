@@ -2,6 +2,10 @@
 
 €T0 KPYT0I K4/\bKY/\RT0P но! TO/\bK0 DLYA интеджеров (integerov)
 
+прикладываю screenшот интерфейста 
+![image](https://github.com/user-attachments/assets/5cfef970-a2ea-4b86-a194-56dbadb09f8a)
+
+
 это форк от моего [другого калькулятора](https://github.com/mkq4/GigaLazarusCalculatorBomba)
 
 ## приимY|||,3$TBA ошарашивают
